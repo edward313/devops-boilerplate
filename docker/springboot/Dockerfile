@@ -1,5 +1,5 @@
 
-FROM openjdk:12-alpine
+FROM eclipse-temurin:11-jdk-alpine
 #FROM openjdk:12-jdk-alpine
 
 VOLUME /tmp
