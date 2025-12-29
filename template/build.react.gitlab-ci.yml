@@ -1,5 +1,5 @@
 node-build: 
-  image: node:18.20.1-alpine
+  image: node:20
   stage: build
   cache:
     key: node-cache
